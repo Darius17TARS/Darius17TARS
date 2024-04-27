@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Darius17TARS
 Vibing
+```
 
                              .     .-/,\-.     ,
                               \ .-'//,M,\\`-. /
@@ -13,3 +14,4 @@ Vibing
                       ||,            (|             ,||
                       db|            d8b            |db
                       YP             Y8P             YP
+```
