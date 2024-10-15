@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Darius17TARS
-Vibing
 ```
    SR-71         .                             .                           F-117                    .     .-/,\-.     ,
  BLACKBIRD      //                             \\                        NIGHTHAWK                   \ .-'//,M,\\`-. /
